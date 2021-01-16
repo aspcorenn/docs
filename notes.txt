@@ -1,1 +1,14 @@
 http://fit.upt.edu.vn/giao-trinh-tai-lieu/
+
+# FastAPI
+* https://www.youtube.com/watch?v=syf6ZSiRSbw
+
+
+# Machine Learning
+* Machine Learning with Python Tutorials
+** https://www.youtube.com/watch?v=kmSab3AuLdY&list=PLMoSUbG1Q_r-rw4MC03RUrzQzm0NuBCRj
+
+
+# Gold price prediction with Python - Machine learning
+* https://www.youtube.com/watch?v=BMvzfHDimYg
+* https://www.youtube.com/watch?v=SS1rVDrL_yk
