@@ -12,3 +12,11 @@ http://fit.upt.edu.vn/giao-trinh-tai-lieu/
 # Gold price prediction with Python - Machine learning
 * https://www.youtube.com/watch?v=BMvzfHDimYg
 * https://www.youtube.com/watch?v=SS1rVDrL_yk
+
+# Python note
+* https://www.practicepython.org/
+* https://www.w3resource.com/python-exercises
+* https://edabit.com/tutorial/python
+* https://pynative.com/python-exercises-with-solutions/
+* https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+* https://exercism.io/tracks/python/exercises
